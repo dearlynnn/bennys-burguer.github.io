@@ -1,6 +1,6 @@
 # BENNY'S BURGUER
 
-Este repositorio contiene el código fuente de una página web diseñada para una hamburguesería llamada: Benny's Burguer. El sitio utiliza tecnologías modernas como **Swiper.js** para sliders interactivos, y está optimizado para una experiencia de usuario fluida y responsiva.
+Este repositorio contiene el código fuente para el diseño de una página web de comidas rápidas. El sitio utiliza tecnologías modernas como **Swiper.js** para sliders interactivos, y está optimizado para una experiencia de usuario fluida y responsiva.
 
 ## Características
 
