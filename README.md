@@ -1,6 +1,6 @@
 # BENNY'S BURGUER
 
-Este repositorio contiene el código fuente para el diseño de una página web de comidas rápidas. El sitio utiliza tecnologías modernas como **Swiper.js** para sliders interactivos, y está optimizado para una experiencia de usuario fluida y responsiva.
+Este proyecto consiste en el diseño de interfaz de una página web. Se utiliza tecnologías modernas como **Swiper.js** para sliders interactivos, y está optimizado para una experiencia de usuario fluida y responsiva.
 
 ## Características
 
